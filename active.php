@@ -3,7 +3,7 @@
  * @Author: RicardoMZH
  * @Date:   2016-03-27 16:56:38
  * @Last Modified by:   RicardoMZH
- * @Last Modified time: 2016-03-28 17:15:59
+ * @Last Modified time: 2016-05-16 20:20:38
  */
 $page_title = '账户激活';
 require('include/header.php');
